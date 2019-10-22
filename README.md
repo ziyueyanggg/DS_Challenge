@@ -8,3 +8,5 @@ Data exploration, cleaning, feature selection, and convert UTM into lon/lat. I w
 ## Oct 22 (ziyue)
 trying out pull request
 https://kbroman.org/github_tutorial/pages/fork.html
+
+updated commit email
