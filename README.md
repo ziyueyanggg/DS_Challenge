@@ -21,7 +21,14 @@ Google Map API is set up. Distance and time taken are requested and appended int
 1. headings and subheadings; documentation
 2. add section on checking missing values
 3. (tbc later tonight) EDA
+4. modify Qing's codes 
 
 ## Oct 24 (Qing)
-
 Define 3 functions for fitted model(logisticregression,knn and linear regression)
+
+## to do:
+1. one-hot encoding
+2. standardization
+3. feature engineering
+4. random forest / NN / SVM / etc.
+5. consider more features: e.g. proxmity to schools; get neighbourhood data; crime rate by neighbourhood
