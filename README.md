@@ -21,3 +21,7 @@ Google Map API is set up. Distance and time taken are requested and appended int
 1. headings and subheadings; documentation
 2. add section on checking missing values
 3. (tbc later tonight) EDA
+
+## Oct 24 (Qing)
+
+Define 3 functions for fitted model(logisticregression,knn and linear regression)
