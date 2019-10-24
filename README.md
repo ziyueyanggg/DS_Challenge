@@ -6,10 +6,18 @@ Initiate a git repo and add project description and original dataset. This is cr
 Data exploration, cleaning, feature selection, and convert UTM into lon/lat. I will set up Google API the next time.
 
 ## Oct 22 (ziyue)
-trying out pull request
+pull request:
 https://kbroman.org/github_tutorial/pages/fork.html
 
-updated commit email
+syncing a forked repo:
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+
+update commit email
 
 ## Oct 23 (yuesong)
 Google Map API is set up. Distance and time taken are requested and appended into the data-frame. Cleaned data are exported as a new csv data-frame.
+
+## Oct 24 (ziyue)
+1. headings and subheadings; documentation
+2. add section on checking missing values
+3. (tbc later tonight) EDA
