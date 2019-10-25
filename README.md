@@ -33,8 +33,11 @@ according to the Q&As, the following changes have been made:
 3. remove the travel time by car to city centre data obtained from Google API
 4. delete rows with values of -99 (refer to Q&A)
 
+## Oct 25（Qing）
+one-hotencoding
+
 ## to do:
-1. one-hot encoding
+1. one-hot encoding ☑️
 2. standardization
 3. feature engineering
 4. random forest / NN / SVM / etc.
