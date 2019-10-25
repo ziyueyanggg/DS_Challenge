@@ -31,7 +31,7 @@ according to the Q&As, the following changes have been made:
 1. download zones shapefiles
 2. retain EXCLUIR column
 3. remove the travel time by car to city centre data obtained from Google API
-4. -99
+4. delete rows with values of -99 (refer to Q&A)
 
 ## to do:
 1. one-hot encoding
