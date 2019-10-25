@@ -26,6 +26,13 @@ Google Map API is set up. Distance and time taken are requested and appended int
 ## Oct 24 (Qing)
 Define 3 functions for fitted model(logisticregression,knn and linear regression)
 
+## Oct 25 (Ziyue)
+according to the Q&As, the following changes have been made:
+1. download zones shapefiles
+2. retain EXCLUIR column
+3. remove the travel time by car to city centre data obtained from Google API
+4. -99
+
 ## to do:
 1. one-hot encoding
 2. standardization
