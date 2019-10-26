@@ -35,10 +35,12 @@ according to the Q&As, the following changes have been made:
 
 ## Oct 25（Qing）
 one-hotencoding
+## Oct 26(Qing)
+standardization（等ziyue看一下）
 
 ## to do:
 1. one-hot encoding ☑️
-2. standardization
+2. standardization☑️
 3. feature engineering
 4. random forest / NN / SVM / etc.
 5. consider more features: e.g. proxmity to schools; get neighbourhood data; crime rate by neighbourhood
