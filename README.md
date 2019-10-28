@@ -33,14 +33,19 @@ according to the Q&As, the following changes have been made:
 3. remove the travel time by car to city centre data obtained from Google API
 4. delete rows with values of -99 (refer to Q&A)
 
-## Oct 25（Qing）
+## Oct 25(Qing)
 one-hotencoding
+
 ## Oct 26(Qing)
-standardization（等ziyue看一下）
+standardization
+
+## Oct 27(Qing)
+Define other 3 functions for fitted model(randon forest /NN/SVM)
+Will try to do feature engineering tmr,(consider more features: e.g. proxmity to schools; get neighbourhood data; crime rate by neighbourhood)
 
 ## to do:
 1. one-hot encoding ☑️
 2. standardization☑️
 3. feature engineering
-4. random forest / NN / SVM / etc.
+4. random forest / NN / SVM / etc.☑️
 5. consider more features: e.g. proxmity to schools; get neighbourhood data; crime rate by neighbourhood
