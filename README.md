@@ -43,6 +43,11 @@ standardization
 Define other 3 functions for fitted model(randon forest /NN/SVM)
 Will try to do feature engineering tmr,(consider more features: e.g. proxmity to schools; get neighbourhood data; crime rate by neighbourhood)
 
+## Oct 30 (yuesong)
+some exploration on how to read dbf, kml and other 4 files with diff extensions. Seems all 6 files provide same information. included a few quick-start example. delete whenever they become useless.
+
+
+
 ## to do:
 1. one-hot encoding ☑️
 2. standardization☑️
