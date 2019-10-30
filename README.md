@@ -12,7 +12,7 @@ https://kbroman.org/github_tutorial/pages/fork.html
 syncing a forked repo:
 https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
 
-update commit email
+update commit email ☑️
 
 ## Oct 23 (yuesong)
 Google Map API is set up. Distance and time taken are requested and appended into the data-frame. Cleaned data are exported as a new csv data-frame.
@@ -52,11 +52,20 @@ to visually see the data
 3. import .kml file
 4. great visual
 
+## Oct 30 (ziyue)
+- shapefile extensions: https://en.wikipedia.org/wiki/Shapefile 
+- GIS with Python and geopandas tutorial (nice read!): https://www.earthdatascience.org/workshops/gis-open-source-python/intro-vector-data-python/
+- three key files: .shp, .shx, .dbf; the rest can be ignored for now
+- bdf shp shx dfs are the same, use one will do
 
+1. add kml support to geopandas
+2. to be resolved: kml dataframe missing attributes other than geometry
+3. utf-8 encoding for spanish characters
+4. static zone visualization
 
 ## to do:
 1. one-hot encoding ☑️
-2. standardization☑️
+2. standardization ☑️
 3. feature engineering
-4. random forest / NN / SVM / etc.☑️
+4. random forest / NN / SVM / etc. ☑️
 5. consider more features: e.g. proxmity to schools; get neighbourhood data; crime rate by neighbourhood
