@@ -1,5 +1,17 @@
 # DS_Challenge
 
+## Nov 30
+Add train_test_split and feature_label_split functions.
+
+
+
+
+
+
+
+
+###############################################################################
+
 ## Oct 22 (yuesong)
 Initiate a git repo and add project description and original dataset. This is created to manage merger issue.
 
