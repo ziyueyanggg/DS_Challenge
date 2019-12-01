@@ -75,6 +75,10 @@ to visually see the data
 3. utf-8 encoding for spanish characters
 4. static zone visualization
 
+## Nov 30 (ziyue)
+1. EDA
+2. re-run distance matrix using my own API key
+
 ## to do:
 1. one-hot encoding ☑️
 2. standardization ☑️
