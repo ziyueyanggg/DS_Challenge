@@ -79,6 +79,9 @@ to visually see the data
 1. EDA
 2. re-run distance matrix using my own API key
 
+## Dec 1 (ziyue)
+1. EDA done, feature engineering tmr
+
 ## to do:
 1. one-hot encoding ☑️
 2. standardization ☑️
