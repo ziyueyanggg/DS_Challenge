@@ -82,6 +82,9 @@ to visually see the data
 ## Dec 1 (ziyue)
 1. EDA done, feature engineering tmr
 
+## Dec 2/3 (ziyue)
+1. feature engineering done
+
 ## to do:
 1. one-hot encoding ☑️
 2. standardization ☑️
