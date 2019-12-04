@@ -85,6 +85,9 @@ to visually see the data
 ## Dec 2/3 (ziyue)
 1. feature engineering done
 
+## Dec 4 (ziyue)
+1. prediction done (left NN)
+
 ## to do:
 1. one-hot encoding ☑️
 2. standardization ☑️
