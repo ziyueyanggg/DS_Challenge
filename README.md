@@ -88,6 +88,11 @@ to visually see the data
 ## Dec 4 (ziyue)
 1. prediction done (left NN)
 
+## Dec 5 (ziyue)
+1. NN done
+2. contribution done
+3. final wrap-up
+
 ## to do:
 1. one-hot encoding ☑️
 2. standardization ☑️
